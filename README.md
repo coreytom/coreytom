@@ -3,12 +3,15 @@
 - Currently studying a T-Level in Digital Production, Design, and Development.
 - In my spare time I enjoy keeping fit in the gym + experimenting with programming languages.
 - Exploring going into Software Engineering // Games Development.
-<br>
+- Always looking to expand my knowledge.
 <br>
 
 # 🎯 Goals:
 
-<br>
+- Refine my experience in JavaScript/ CSS / C# / HTML.
+- Look into other potential languages.
+- Strengthen Debugging skills.
+- Secure an apprenticeship relevant to my experience.
 <br>
 
 # 🧑‍💻 Current Projects in Development:
@@ -20,14 +23,12 @@ College Full-Stack Web: Currently developing a full-stack web application for a 
 &nbsp;&nbsp;&nbsp;&nbsp;- Back-End: Incomplete ❌
 
 <br>
-<br>
 
 # ⭐ Experience:
 
 - Python for 5 years as of December 2025.
 - Studying JavaScript / CSS / C# / HTML for a year.
 
-<br>
 <br>
 
 # 📱 Socials:
